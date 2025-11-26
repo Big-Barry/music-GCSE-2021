@@ -31,24 +31,6 @@ The application is a quiz game where users can log in, answer questions about va
 * `scorers.json` - Storage for user high scores.
 * `import to list.py` - Utility script for importing new song data into the JSON structure.
 
-## Getting Started
-
-To run this application locally:
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/Big-Barry/music-GCSE-2021.git](https://github.com/Big-Barry/music-GCSE-2021.git)
-    cd music-GCSE-2021
-    ```
-
-2.  **Run the application:**
-    ```bash
-    python "Song Quiz.py"
-    ```
-
-3.  **Usage:**
-    Follow the on-screen prompts to log in (or create a user if applicable) and start the quiz.
-
 ## Key Takeaways
 
 This project was a significant milestone in my early programming development. It taught me the importance of:
